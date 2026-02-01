@@ -90,7 +90,7 @@ iframe {
 <body>
 <p class="MyTitle">Ivan Tucakov</p>
 <p class="MySubTitle">Producer / Composer / Author</p>
-<p class="MySubTitle">&nbsp;</p>
+<p class="MySubTitle"><img src="images/TR/Tambura_Rasa_logo1.png" alt="Tambura Rasa" /></p>
 <p class="MySubTitle">Tambura Rasa - World Fusion Music &amp; Dance</p>
 
 
